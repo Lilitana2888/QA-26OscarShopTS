@@ -1,0 +1,2 @@
+# QA-26OscarShopTS
+ 
